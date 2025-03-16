@@ -17,12 +17,12 @@
     },
     "icons": [
         {
-            "src": "https://cdn.jsdelivr.net/gh/Vextotem/raketmeta@main/raket.png",
+            "src": "https://cdn.jsdelivr.net/gh/Vextotem/raketmeta@main/cineby.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/Vextotem/raketmeta@main/raket.png",
+            "src": "https://cdn.jsdelivr.net/gh/Vextotem/raketmeta@main/cineby.png",
             "sizes": "256x256",
             "type": "image/png"
         }
