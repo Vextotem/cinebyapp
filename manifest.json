@@ -4,25 +4,25 @@
 	"scope": "/",
 	"display": "standalone",
 	"start_url": "/",
-	"short_name": "Cineby App",
+	"short_name": "Cineby",
 	"theme_color": "#000000",
 	"orientation": "portrait",
 	"background_color": "#18191c",
 	"related_applications": [],	      
     "description": "Watch Movies and Shows Online for Free",
 	"serviceworker": {
-        "src": "/",
+        "src": "/service-worker.js",
         "scope": "/",
         "use_cache": true
     },
     "icons": [
         {
-            "src": "https://cdn.jsdelivr.net/gh/Vextotem/raketmeta@main/cineby.png",
+            "src": "https://cdn.jsdelivr.net/gh/Vextotem/cinebymeta@main/cineby.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "https://cdn.jsdelivr.net/gh/Vextotem/raketmeta@main/cineby.png",
+            "src": "https://cdn.jsdelivr.net/gh/Vextotem/cinebymeta@main/cineby.png",
             "sizes": "256x256",
             "type": "image/png"
         }
